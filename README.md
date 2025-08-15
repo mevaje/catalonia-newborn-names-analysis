@@ -15,6 +15,7 @@ Data was obtained from Idescat, the Statistical Institute of Catalonia. The data
 - NLP tools if you analyze text and name similarities
 
 # Key Features
+- Web scraping
 - Analysis of the most popular names by year and gender
 - Visualization of name diversity trends over time
 - Identification of emerging and declining names
